@@ -9562,7 +9562,7 @@ a.text-dark:hover, a.text-dark:focus {
   --primary-dark: #172541;
   --secondary-color: #1545CB;
   --layer: rgba(0, 0, 0, 0.5);
-  --font-color: #666;
+  --font-color: #000;
   --bg-color: #fff;
   /*--heading-color: #3f3a64;*/
   --heading-color: #005BA6;
